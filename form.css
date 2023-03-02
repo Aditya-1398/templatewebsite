@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    width: 100%;
+    background: linear-gradient(89.7deg, rgb(0, 0, 0) -10.7%, rgb(53, 92, 125) 88.8%);
+    border: 1px solid black;
+    color: aliceblue;
+    text-align: center;
+}
+.data{
+    width: 50%;
+    height: 40vh;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 30px;
+    background: linear-gradient(89.7deg, rgb(0, 0, 0) -10.7%, rgb(53, 92, 125) 88.8%);
+}
+.form{
+    margin-top: 100px;
+    color: aliceblue;
+}
+button{
+    margin-top: 30px;
+    border: 1px solid aliceblue;
+    border-radius: 5px;
+    font-style: oblique;
+    font-size: 15px;
+}
+.btn{
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    transition: 2s;
+    padding: 10px 24px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: rgb(228, 233, 88);
+    color: rgb(0, 0, 0);
+}
+a {
+    text-decoration: none;
+    font-style: oblique;
+    font-size: 15px;
+    color: black;
+}
+#lastname {
+    margin-top: 10px;
+    margin-left: 240px;
+}
+#email{
+    margin-top: 10px;
+    margin-right: 460px;
+}
+
